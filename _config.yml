@@ -11,11 +11,10 @@ highlighter: pygments
 title : 范中的博客
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : 范中
+  email : jzorrof@gmail.com
+  github : jzorrof
+  twitter : jzorrof
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
