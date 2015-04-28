@@ -1,27 +1,27 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: 妖就是妖
+tagline: 积累技术，研究新科技 and 喝喝
+author: Jzorrof
+email: jzorrof@gmail.com
+description: "技术备忘录" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Python, Java, Android"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.jzorrof.info" # the base hostname & protocol for your site
-locale: en_US
+locale: zh_CN
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+twitter_username: jzorrof
+github_username:  jzorrof
+disqus_shortname: joe
+favicon:     "/images/tiaopi.ico"
+aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+default_locale: "cn" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 locales:
     en:
@@ -55,12 +55,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Freshman21
-      href: http://yulijia.net/freshman21
-      title: Another Jekyll blog theme
+    - name: jzorrof
+      href: http://blog.jzorrof.info
+      title: tech blog
     - name: author's website
-      href: http://yulijia.net/
-      title: Lijia Yu's website
+      href: http://www.jzorro.info/
+      title: zhong's website
 
 
 ### Build settings
