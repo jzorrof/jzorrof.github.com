@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to install make a jipai
+title: flask 备忘
 categories: memos
 tags: [memo]
 comments: true
-description: TEST
+description: memos
 ---
 
 初探
