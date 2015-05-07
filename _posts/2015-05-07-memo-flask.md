@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Flask 备忘
-categories: 备忘录
+categories: memos
 tags: 
--memos
+	-memos
 comments: true
 description: flask 初步
 ---
