@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flask 备忘
-categories: memos
+categories: articles
 tags: 
 	- memos
 comments: true
