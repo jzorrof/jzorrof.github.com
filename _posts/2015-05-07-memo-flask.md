@@ -3,7 +3,7 @@ layout: post
 title: Flask 备忘
 categories: memos
 tags: 
-	-memos
+	- memos
 comments: true
 description: flask 初步
 ---
