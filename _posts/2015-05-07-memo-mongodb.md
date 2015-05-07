@@ -2,7 +2,7 @@
 layout: post
 title: Mongodb 备忘
 categories: memos
-tags: [memo]
+tags: [memo, mongodb]
 comments: true
 description: 
 ---
