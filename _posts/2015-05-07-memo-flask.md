@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to install make a jipai
-categories: articles
+categories: memos
 tags: [memo]
 comments: true
 description: TEST
