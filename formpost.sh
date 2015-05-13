@@ -8,7 +8,7 @@ DATE=`date "+%Y-%m-%d"`
 POSTNAME=`echo $POSTPATH/$DATE-$1.md`
 
 
-if [[ -e $POSTNAME ]]; then
+if [[ -e $POSTNAME ]] && [[ $1=='' ]]; then
 	echo "exist"
 else
 	touch $POSTPATH/$DATE-$1.md
